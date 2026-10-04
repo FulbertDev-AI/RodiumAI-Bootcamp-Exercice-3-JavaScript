@@ -1,0 +1,14 @@
+{
+  "name": "Exercice 3 JS",
+  "version": "1.0.0",
+  "description": "Script interactif RodiumAi en Node.js",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "rodiumai": "^0.2.0"
+  }
+}
